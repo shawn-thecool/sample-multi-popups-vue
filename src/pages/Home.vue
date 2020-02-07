@@ -18,6 +18,7 @@
 <script>
 import { createNamespacedHelpers } from 'vuex'
 
+
 const popupHelper = createNamespacedHelpers('popup')
 
 export default {

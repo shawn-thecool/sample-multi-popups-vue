@@ -1,6 +1,3 @@
-// utils
-const hasKeyInList = (list, key) => list.map(item => item[key]).indexOf(key)
-
 const state = {
   popups: []
 }
